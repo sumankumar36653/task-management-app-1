@@ -1,2 +1,9 @@
-# task-management-app-1
-Simple task management app with Next.js frontend, Node.js backend, and AWS ECS deployment
+# Simple Task Management App
+
+Task management app with Next.js, Express, and AWS ECS deployment.
+
+## Tech Stack
+- Frontend: Next.js 14
+- Backend: Node.js/Express
+- Infrastructure: AWS CDK (ECS Fargate)
+- Database: DynamoDB
